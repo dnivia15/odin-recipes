@@ -1,0 +1,15 @@
+*{
+    font-family: Helvetica, sans-serif;
+}
+.listInfo {
+    color:rgb(93, 184, 40);
+    background-color: rgb(255, 166, 0);
+}
+
+h3{
+    background-color: rgb(64, 224, 125);
+}
+
+ol{
+    font-weight: bold;
+}

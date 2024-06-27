@@ -1,0 +1,10 @@
+h1 {
+    color:hsl(0,0,100%);
+    background-color: rgb(80, 221, 132);
+    text-align: center;
+}
+
+.listItem{
+    color:rgb(80, 108, 221);
+    background-color: orange;
+}
